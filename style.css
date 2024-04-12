@@ -48,7 +48,7 @@ section{
 .titulo span{
     color: red;
 }
-/*INICIO CABEÇALHO DO SITE MAYKONSILVEIRA.COM.BR*/
+/*INICIO CABEÇALHO DO SITE */
 
 .topo-site{
     display: flex;
@@ -60,17 +60,17 @@ section{
     justify-content: space-between;
     padding: 2rem 9%;
     z-index: 1000;
-    background: red;
+    background: black;
     box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
 }
 
 .topo-site .logo{
     font-size: 2.5rem;
-    color: #fff;
+    color: yellow;
     font-weight: bolder;
 }
 .topo-site .logo i{
-    color: yellow;
+    color: blue;
     padding-right: .5rem;
     rotate: 175deg;
 }
@@ -96,6 +96,11 @@ section{
 }
 #menu{
     display: none;
+    color: blue;
+}
+#menu:hover{
+    color: #fff;
+
 }
 .topo-site .carrinho{
     width: 35rem;
@@ -256,7 +261,7 @@ section{
 .msflix-destaque .slide .content h3{
    font-size: 6rem;
    line-height: 1.3;
-   color: black; 
+   color: blue; 
    padding: 2rem 0;
    animation: sliderMaykon 1s ease forwards;
 }
