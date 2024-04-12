@@ -1,20 +1,4 @@
-let carrinho = document.querySelector(".carrinho");
 
-document.querySelector("#cart").onclick = () =>{
-    carrinho.classList.toggle('active');
-
-    login.classList.remove('active');
-    menuResponsivo.classList.remove('active');
-
-}
-
-let login = document.querySelector('.login-form');
-document.querySelector("#login").onclick = () =>{
-    login.classList.toggle('active');
-
-    carrinho.classList.remove('active');
-    menuResponsivo.classList.remove('active');
-}
 
 //MENU RESPONSIVO
 let menuResponsivo = document.querySelector('.menu-site');
@@ -23,8 +7,7 @@ document.querySelector('#menu').onclick =() =>{
 
     
 
-    login.classList.remove('active');
-    carrinho.classList.remove('active');
+    
 
 }
 
@@ -88,11 +71,6 @@ var swiper = new Swiper(".menu-slider", {
 
   });
 
-  verModalCorpo.querySelector("#fechar").onclick = () =>{
-    verModalCorpo.style.display = 'none';
-    verModalBox.forEach(fechar =>{
-        fechar.classList.remove('active');
-    });
-  };
+ 
 
 
