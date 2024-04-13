@@ -232,7 +232,7 @@
 /*pagina do blog */
 
 .inicio-blog{
-margin-top: 150px;
+    padding-top: 12rem;
 }
 .inicio-blog .titulo-do-blog{
     text-align: center;
