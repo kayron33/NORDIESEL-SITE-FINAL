@@ -382,7 +382,23 @@ background-color: red;
     color: #130f40;
     border: 1px solid #130f40;
 }
+/*EMPRESA pagina*/
+.empresa{
+    padding-top: 12rem;
+}
+.empresa .texto-empresa{
+    font-size: 1.7rem;
+}
+.empresa .imagem-empresa{
+  display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 3rem;
+}
+.empresa .imagem-empresa img{
+   width: 300px;
 
+}
 
 /*blog*/
 .blog .box-container{
