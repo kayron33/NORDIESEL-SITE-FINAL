@@ -625,10 +625,12 @@ background-color: red;
     background: #eee;
     border-radius: 50%;
     color: black;
+    transition: 0.5s;
 }
 .contatos .icone-box .icons:hover i{
     background: yellow;
     color: black;
+    transform: scale(1.1);
 
 }
 .contatos .icone-box .icons h3{
@@ -695,9 +697,9 @@ text-transform: none;
     justify-content: center;
 }
 .contatos .btn:hover{
-    background-color: transparent;
+    background-color: black;
     border: 1px solid black;
-    color: orange;
+    color: yellow;
 }
 
 
