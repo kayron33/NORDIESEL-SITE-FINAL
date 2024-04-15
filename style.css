@@ -343,8 +343,9 @@ background-color: red;
 .empresa .row{
     display: flex;
     flex-wrap: wrap;
+    padding-top: 5rem;
     gap: 4rem;
-    border-bottom: .5rem solid yellow;
+    
     align-items: center;
 }
 .empresa .row .empresa-img{
@@ -367,7 +368,7 @@ background-color: red;
 }
 .empresa .row .content p{
     font-size: 1.6rem;
-   
+    text-transform: none;
     color: black;
     padding: 2rem 0;
     line-height: 2;
