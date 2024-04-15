@@ -319,8 +319,8 @@ color: yellow;
     width: 4.5rem;
     line-height: 4.5rem;
     margin-left: 1.5rem;
-    color: red;
-    border: .1px solid red;
+    color: black;
+    border: .1px solid yellow;
     transform: translateY(-50%) rotate(45deg);
 }
 
@@ -332,8 +332,8 @@ transform: rotate(-45deg);
 
 .swiper-button-prev:hover,
 .swiper-button-next:hover{
-color: #fff;
-background-color: red;
+color: black;
+background-color: yellow;
 }
 
 /*EMPRESA*/
@@ -388,13 +388,11 @@ background-color: red;
 }
 /*EMPRESA pagina*/
 .empresa-pagina{
-    
-    padding-top: 12rem;
+   
    
 }
 .empresa-pagina .titulo{
 background-color: yellow;
-padding-top: 0;
 padding-bottom: 2rem;
 }
 .empresa-pagina .texto-empresa{
@@ -412,11 +410,7 @@ padding-bottom: 2rem;
 
 }
 .empresa-pagina .imagem-empresa img{
-    
-}
-.empresa-pagina .imagem-empresa img{
    width: 300px;
-
 }
 
 /*blog*/
