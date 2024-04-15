@@ -338,7 +338,7 @@ background-color: red;
 
 /*EMPRESA*/
 .empresa{
-    
+   
 }
 .empresa .row{
     display: flex;
@@ -367,6 +367,7 @@ background-color: red;
 }
 .empresa .row .content p{
     font-size: 1.6rem;
+   
     color: black;
     padding: 2rem 0;
     line-height: 2;
@@ -383,19 +384,29 @@ background-color: red;
     border: 1px solid #130f40;
 }
 /*EMPRESA pagina*/
-.empresa{
+.empresa-pagina{
+   
     padding-top: 12rem;
+   
 }
-.empresa .texto-empresa{
+.empresa-pagina .texto-empresa{
     font-size: 1.7rem;
+    text-transform: none;
+    
 }
-.empresa .imagem-empresa{
-  display: flex;
-    align-items: center;
-    justify-content: center;
-    padding-top: 3rem;
+.empresa-pagina .imagem-empresa{
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ padding-top: 3rem;
+ width: 100%;
+ 
+
 }
-.empresa .imagem-empresa img{
+.empresa-pagina .imagem-empresa img{
+    
+}
+.empresa-pagina .imagem-empresa img{
    width: 300px;
 
 }
