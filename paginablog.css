@@ -59,6 +59,32 @@
 
 
 
+    /*TOPO PAGINAS*/
+.topo-paginas{
+    background: yellow;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding-top: 12rem;
+    padding-bottom: 8rem;
+
+}
+.topo-paginas h1{
+    color: black;
+    font-size: 4rem;
+}
+.topo-paginas p{
+    padding-top: 1rem;
+    font-size: 2rem;
+    color: blue;
+}
+.topo-paginas p a{
+    color: rgba(0, 0, 255, 0.473);
+    padding-right: .5rem;
+}
+
+
+
 /*INICIO CABEÇALHO DO SITE */
 
 .topo-site{
@@ -240,10 +266,12 @@
     padding-bottom: 1rem;
 }
 .inicio-blog p{
-    font-size: 1.2rem;
+    text-transform: none!important;
+    font-size: 1.7rem;
     color: black;
     padding: 2rem 0;
     line-height: 2;
+    
 }
 .inicio-blog .video-youtube{
     text-align: center;
