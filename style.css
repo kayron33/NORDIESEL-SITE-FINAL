@@ -388,9 +388,14 @@ background-color: red;
 }
 /*EMPRESA pagina*/
 .empresa-pagina{
-   
+    
     padding-top: 12rem;
    
+}
+.empresa-pagina .titulo{
+background-color: yellow;
+padding-top: 0;
+padding-bottom: 2rem;
 }
 .empresa-pagina .texto-empresa{
     font-size: 1.7rem;
