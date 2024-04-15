@@ -344,6 +344,7 @@ background-color: red;
     display: flex;
     flex-wrap: wrap;
     padding-top: 5rem;
+    padding-left: .9rem;
     gap: 4rem;
     
     align-items: center;
@@ -367,6 +368,7 @@ background-color: red;
     color: blue;
 }
 .empresa .row .content p{
+    
     font-size: 1.6rem;
     text-transform: none;
     color: black;
