@@ -69,6 +69,7 @@
     padding-bottom: 8rem;
 
 }
+ 
 .topo-paginas h1{
     color: black;
     font-size: 4rem;
@@ -259,6 +260,11 @@
 
 .inicio-blog{
     padding-top: 12rem;
+}
+.inicio-blog .imagem-blog{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .inicio-blog .titulo-do-blog{
     text-align: center;
