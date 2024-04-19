@@ -383,8 +383,9 @@ background-color: yellow;
 } 
 .empresa .btn:hover{
     background-color: #fffb00;
-    color: #130f40;
+    color: #2514e2;
     border: 1px solid #130f40;
+    
 }
 /*EMPRESA pagina*/
 .empresa-pagina{
