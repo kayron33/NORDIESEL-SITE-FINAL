@@ -266,6 +266,11 @@
     grid-template-columns: repeat(auto-fit, minmax(30rem,1fr));
    
 }
+.inicio-blog  ul li{
+   font-size: 1.5rem;
+   padding-top: .9rem;
+   
+}
 
 
 .img-blog img{
