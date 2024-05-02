@@ -265,6 +265,7 @@
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(30rem,1fr));
    
+   
 }
 .inicio-blog  ul li{
    font-size: 1.5rem;
@@ -275,7 +276,8 @@
 
 .img-blog img{
     width: 400px;
-    margin-left: 1.8rem;
+    margin: auto;
+
 }
 .img-blog p{
  text-align: center;
