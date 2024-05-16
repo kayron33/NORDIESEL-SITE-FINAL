@@ -277,7 +277,7 @@ color: yellow;
 
 }
 .msflix-destaque .slide .content .btn{
-    background: red;
+    background: black;
     color: #fff;
 }
 .msflix-destaque .slide .content .btn:hover{
@@ -440,6 +440,7 @@ padding-bottom: 2rem;
     padding: 1.5rem;
     border-radius: .5rem;
     box-shadow: 0 .5rem 1rem rgba(0, 0, 0, 0.1);
+    background-color: #fffb001e;
 
 }
 .blog .box-container .box img{
