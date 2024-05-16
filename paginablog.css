@@ -309,6 +309,7 @@
     align-items: center;
     justify-content: center;
     padding-top: 30px;
+    padding-bottom: 30px;
 }
 .inicio-blog .video-youtube iframe{
     border: 5px solid yellow;
