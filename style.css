@@ -337,9 +337,6 @@ background-color: yellow;
 }
 
 /*EMPRESA*/
-.empresa{
-   
-}
 .empresa .row{
     display: flex;
     flex-wrap: wrap;
@@ -398,10 +395,7 @@ background-color: yellow;
     
 }
 /*EMPRESA pagina*/
-.empresa-pagina{
-   
-   
-}
+
 .empresa-pagina .titulo{
 background-color: yellow;
 padding-bottom: 2rem;
@@ -440,7 +434,7 @@ padding-bottom: 2rem;
     padding: 1.5rem;
     border-radius: .5rem;
     box-shadow: 0 .5rem 1rem rgba(0, 0, 0, 0.1);
-    background-color: #fffb001e;
+    background-color: #fffb002d;
 
 }
 .blog .box-container .box img{

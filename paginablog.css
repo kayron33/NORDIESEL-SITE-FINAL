@@ -261,6 +261,9 @@
 .inicio-blog{
     padding-top: 12rem;
 }
+.inicio-blog h2{
+    font-size: 1.9rem;
+}
 .img-blog{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(30rem,1fr));
