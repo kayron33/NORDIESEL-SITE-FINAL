@@ -45,13 +45,13 @@ section{
 }
 .titulo{
     font-size: 2.8rem;
-    color: #130f40;
+    color: black;
     padding: 1.2rem 0;
     text-align: center;
     border-bottom: .1rem solid rgba(0, 0, 0, 0.1) ;
 }
 .titulo span{
-    color: red;
+    color: blue;
 }
 /*INICIO CABEÇALHO DO SITE */
 
@@ -434,7 +434,7 @@ padding-bottom: 2rem;
     padding: 1.5rem;
     border-radius: .5rem;
     box-shadow: 0 .5rem 1rem rgba(0, 0, 0, 0.1);
-    background-color: #fffb002d;
+   
 
 }
 .blog .box-container .box img{
