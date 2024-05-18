@@ -347,6 +347,7 @@ background-color: yellow;
     
     align-items: center;
 }
+
 .empresa .row .empresa-img{
     flex: 1 1 32rem;
     
@@ -405,6 +406,11 @@ padding-bottom: 2rem;
     text-transform: none;
    
     
+}
+.empresa-pagina .imagem-empresa1{
+width: 250px;
+    margin: auto;
+
 }
 .empresa-pagina .imagem-empresa{
  display: flex;
