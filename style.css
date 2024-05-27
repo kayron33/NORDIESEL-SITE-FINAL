@@ -397,11 +397,11 @@ background-color: yellow;
 }
 /*EMPRESA pagina*/
 
-.empresa-pagina .titulo{
-background-color: yellow;
+.empresa-pagina h1{
+
 padding-bottom: 2rem;
 }
-.empresa-pagina .texto-empresa{
+.empresa-pagina p{
     font-size: 1.7rem;
     text-transform: none;
    
