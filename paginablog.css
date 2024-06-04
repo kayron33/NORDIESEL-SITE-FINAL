@@ -20,6 +20,7 @@
         font-size: 62.5%;
         overflow-x: hidden;
         scroll-behavior: smooth;
+        background-color: #F0F0F0 ;
     }
     
     
@@ -61,7 +62,7 @@
 
     /*TOPO PAGINAS*/
 .topo-paginas{
-    background: yellow;
+    background: rgba(255, 255, 0, 0.801);
     background-size: cover;
     background-position: center;
     text-align: center;
@@ -77,10 +78,10 @@
 .topo-paginas p{
     padding-top: 1rem;
     font-size: 2rem;
-    color: blue;
+    color: #000000;
 }
 .topo-paginas p a{
-    color: rgba(0, 0, 255, 0.473);
+    color:  blue;
     padding-right: .5rem;
 }
 
