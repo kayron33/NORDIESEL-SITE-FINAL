@@ -788,9 +788,11 @@ text-transform: none;
 
 @media(max-width:450px){
     html{
-        font-size: 40%;
+        font-size: 50%;
     }
-  
+    .msflix-destaque .slide .content h3{
+        font-size: 3.5rem;
+    }
 
     
     
